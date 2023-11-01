@@ -9,3 +9,7 @@ COM 20/B
 ## Random Number
 
 # ScreenShot (Code and App) :
+
+# Github Link ;
+
+https://github.com/AkifCan38/Front-end-Midterm/tree/main
