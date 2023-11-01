@@ -4,6 +4,10 @@ Akif Can DUMAN
 
 COM 20/B
 
+# Description
+
+New Year's Eve was approaching and it occurred to me that there was a raffle going on and I decided to create a react app that generates a random number and that's how I chose the project. As a result of a little research, I reviewed a few examples and then I completed the react app.
+
 # Project Name :
 
 ## Random Number
