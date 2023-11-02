@@ -36,9 +36,20 @@ function App() {
           value = {maxVal}
           onChange = {e => setMaxVal(+e.target.value)}
           />
+          
         </div>
         </div>
+        
         <button onClick={giveRandomNumber}>Get Random Number</button>
+        
+        <a
+          className="App-link"
+          href="https://github.com/AkifCan38/Front-end-Midterm"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Click Me!!!!!!
+        </a>
       </div>
     </div>
   );
